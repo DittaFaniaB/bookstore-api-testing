@@ -21,9 +21,9 @@ Follow these steps to get started with the project:
 
 1. Clone this repository to your local machine:
 
-   ```
-   git clone <repository_url>
-   ```
+```
+git clone <repository_url>
+```
 2. Change into directory project:
 
 ```
