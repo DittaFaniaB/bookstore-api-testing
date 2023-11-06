@@ -1,4 +1,4 @@
-# End to End API Automation using WDIO
+# End to End API Automation using Webdriver.io - Supertest 
 
 ## API
 
@@ -52,5 +52,5 @@ npm run wdio
 2. Generate a test report using the Allure command:
 
 ```
-allure generate
+npm run report
 ```
